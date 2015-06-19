@@ -6,4 +6,4 @@ To use this project, you must have the MySQL connector
 for java (http://dev.mysql.com/downloads/connector/j/)
 and Apache Jena library(https://jena.apache.org/download/index.cgi).
 Also you have to import the Database of the Continents to your MySQL.
-Created by: ** Carlos Villegas Rojas ** and ** Felipe Londoño Ochoa **.
+Created by: **Carlos Villegas Rojas** and **Felipe Londoño Ochoa**.
